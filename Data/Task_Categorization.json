@@ -1,0 +1,206 @@
+[
+    {
+        "prompt": "hello Jarvis",
+        "response": [
+            "general hello Jarvis."
+        ]
+    },
+    {
+        "prompt": "jarvis play any song",
+        "response": [
+            "general play any song"
+        ]
+    },
+    {
+        "prompt": "jarvis play Tum Hi Ho",
+        "response": [
+            "play Tum Hi Ho"
+        ]
+    },
+    {
+        "prompt": "volume of Jarvis",
+        "response": [
+            "system volume of Jarvis"
+        ]
+    },
+    {
+        "prompt": "volume up Jarvis",
+        "response": [
+            "system volume up"
+        ]
+    },
+    {
+        "prompt": "volume down",
+        "response": [
+            "system volume down"
+        ]
+    },
+    {
+        "prompt": "volume down",
+        "response": [
+            "system volume down"
+        ]
+    },
+    {
+        "prompt": "close Microsoft edge",
+        "response": [
+            "close Microsoft edge"
+        ]
+    },
+    {
+        "prompt": "search about Uttar Pradesh in Google search",
+        "response": [
+            "google search uttar pradesh"
+        ]
+    },
+    {
+        "prompt": "Jarvis close python",
+        "response": [
+            "close python"
+        ]
+    },
+    {
+        "prompt": "hey Jarvis how are you",
+        "response": [
+            "general how are you?"
+        ]
+    },
+    {
+        "prompt": "hi Jarvis how are you",
+        "response": [
+            "general hi Jarvis how are you?"
+        ]
+    },
+    {
+        "prompt": "jarvis do you hear me",
+        "response": [
+            "general do you hear me?"
+        ]
+    },
+    {
+        "prompt": "hey Jarvis how are you",
+        "response": [
+            "general how are you?"
+        ]
+    },
+    {
+        "prompt": "hey Jarvis how are you",
+        "response": [
+            "general how are you?"
+        ]
+    },
+    {
+        "prompt": "play a song Tum Hi Ho",
+        "response": [
+            "play tum hi ho"
+        ]
+    },
+    {
+        "prompt": "close Microsoft age",
+        "response": [
+            "close Microsoft Edge."
+        ]
+    },
+    {
+        "prompt": "Jarvis who was Mahatma Gandhi",
+        "response": [
+            "general who was mahatma gandhi?"
+        ]
+    },
+    {
+        "prompt": "hello Jarvis",
+        "response": [
+            "general hello Jarvis."
+        ]
+    },
+    {
+        "prompt": "jarvis play a song Tum Hi Ho",
+        "response": [
+            "play tum hi ho"
+        ]
+    },
+    {
+        "prompt": "Jarvis close age",
+        "response": [
+            "close age"
+        ]
+    },
+    {
+        "prompt": "Jarvis ko bhi gana Pasand a Gaya Kya band Kyon nahin kiya ismein fuck",
+        "response": [
+            "general jarvis ko bhi gana pasand a gaya kya band kyon nahi kiya ismein fuck?"
+        ]
+    },
+    {
+        "prompt": "Jarvis volume up",
+        "response": [
+            "system volume up"
+        ]
+    },
+    {
+        "prompt": "volume down",
+        "response": [
+            "system volume down"
+        ]
+    },
+    {
+        "prompt": "volume down",
+        "response": [
+            "system volume down"
+        ]
+    },
+    {
+        "prompt": "volume down",
+        "response": [
+            "system volume down"
+        ]
+    },
+    {
+        "prompt": "volume down",
+        "response": [
+            "system volume down"
+        ]
+    },
+    {
+        "prompt": "volume down",
+        "response": [
+            "system volume down"
+        ]
+    },
+    {
+        "prompt": "brightness down",
+        "response": [
+            "system brightness down"
+        ]
+    },
+    {
+        "prompt": "Kuchh Aise batao poochhne ke liye ek real time Ke Piche Puchte Hain",
+        "response": [
+            "general kuchh aise batao poochhne ke liye ek real-time ke piche puchhte hain."
+        ]
+    },
+    {
+        "prompt": "what is net worth of Elon Musk",
+        "response": [
+            "realtime what is net worth of elon musk"
+        ]
+    },
+    {
+        "prompt": "Jarvis what does mean",
+        "response": [
+            "general what does jarvis mean?"
+        ]
+    },
+    {
+        "prompt": "jarvis play a song Tum Hi Ho",
+        "response": [
+            "play tum hi ho"
+        ]
+    },
+    {
+        "prompt": "Jarvis close YouTube",
+        "response": [
+            "close youtube"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "prompt": "Hii jarvis how are you",
+        "response": [
+            "general hii jarvis how are you?"
+        ]
+    },
+    {
+        "prompt": "open instagram and  play tum hi ho  on youtube ",
+        "response": [
+            "open instagram",
+            "play tum hi ho"
+        ]
+    },
+    {
+        "prompt": "open leetcode open settings shutdown system",
+        "response": [
+            "open leetcode",
+            "opening settings",
+            "system shutdown"
+        ]
+    },
+    {
+        "prompt": "search how to make maggie on google",
+        "response": [
+            "google search how to make maggie"
+        ]
+    }
+]
